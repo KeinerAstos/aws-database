@@ -109,12 +109,3 @@ aws s3api put-bucket-policy --bucket mini-instagram-posts --policy file://s3/buc
 - Proyectos educativos
 
 ---
-
-## 👨‍💻 Autor
-
-KeinerAstos  
-Repositorio público — 2025
-
----
-
-Si deseas un README más extenso, con imágenes, diagramas o instrucciones avanzadas, ¡solo dímelo! 🚀
